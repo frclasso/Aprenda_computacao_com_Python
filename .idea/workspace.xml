@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51738f44-6576-4128-88b9-3f41bf80fa74" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Chap16-Heranca/jogo_de_cartas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap17-Listas_encadeadas/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap17-Listas_encadeadas/node.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap18-Pilhas/stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap19-Filas/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap19-Filas/README2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chap19-Filas/fila.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap05-funcoes-frutiferas/geradora.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap06-Iteracao/myIterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap20-Arvores/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chap20-Arvores/tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chap14-Classes_&amp;_metodos/time.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap14-Classes_&amp;_metodos/time.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chap12-Classes_&amp;_Objetos/rectangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chap12-Classes_&amp;_Objetos/rectangle.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,36 +23,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="stack.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chap18-Pilhas/stack.py">
+      <file leaf-file-name="time.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chap14-Classes_&amp;_metodos/time.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+            <state relative-caret-position="108">
+              <caret line="6" column="64" lean-forward="true" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fila.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chap19-Filas/fila.py">
+      <file leaf-file-name="carta.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chap15-Composicao/carta.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#38#1015#0" />
-                <element signature="e#92#137#0" />
-                <element signature="e#170#192#0" />
-                <element signature="e#228#312#0" />
-                <element signature="e#558#705#0" />
-                <element signature="e#745#1015#0" />
-                <element signature="e#69#109#0" />
-                <element signature="e#142#155#0" />
-                <element signature="e#614#731#0" />
-                <element signature="e#787#852#0" />
-                <element signature="e#1356#1530#0" />
-                <element signature="e#1585#1600#0" />
-                <element signature="e#1634#1657#0" />
-                <element signature="e#1701#1720#0" />
-              </folding>
+            <state relative-caret-position="990">
+              <caret line="55" column="13" lean-forward="true" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jogo_de_cartas.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chap16-Heranca/jogo_de_cartas.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2468">
+              <caret line="173" column="12" selection-start-line="169" selection-start-column="2" selection-end-line="173" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exemplo_1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exemplo_2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="9" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exemplo_3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exemplo_4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="13" lean-forward="true" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exemplo_5.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" lean-forward="true" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="geradora.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chap05-funcoes-frutiferas/geradora.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myIterator.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chap06-Iteracao/myIterator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -70,16 +128,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Chap06-Iteracao/tabela_multiplicacao.py" />
-        <option value="$PROJECT_DIR$/Chap06-Iteracao/tabulacao.py" />
-        <option value="$PROJECT_DIR$/Chap06-Iteracao/imprime_multiplos.py" />
-        <option value="$PROJECT_DIR$/Chap07-Strings/ultima_letra.py" />
-        <option value="$PROJECT_DIR$/Chap07-Strings/prefixo.py" />
-        <option value="$PROJECT_DIR$/Chap07-Strings/imutable_string.py" />
-        <option value="$PROJECT_DIR$/Chap07-Strings/conta_letras.py" />
-        <option value="$PROJECT_DIR$/Chap07-Strings/conta_letras2.py" />
-        <option value="$PROJECT_DIR$/Chap07-Strings/find.py" />
-        <option value="$PROJECT_DIR$/Chap07-Strings/find_letra2.py" />
         <option value="$PROJECT_DIR$/Chap07-Strings/strings-methods.py" />
         <option value="$PROJECT_DIR$/Chap08-Listas/cavaleiros.py" />
         <option value="$PROJECT_DIR$/Chap08-Listas/lista_mutante.py" />
@@ -121,6 +169,16 @@
         <option value="$PROJECT_DIR$/Chap19-Filas/README.md" />
         <option value="$PROJECT_DIR$/Chap19-Filas/README2.md" />
         <option value="$PROJECT_DIR$/Chap19-Filas/fila.py" />
+        <option value="$PROJECT_DIR$/Chap20-Arvores/tree.py" />
+        <option value="$PROJECT_DIR$/Chap20-Arvores/animal.py" />
+        <option value="$PROJECT_DIR$/Chap12-Classes_&amp;_Objetos/rectangle.py" />
+        <option value="$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_1.py" />
+        <option value="$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_2.py" />
+        <option value="$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_3.py" />
+        <option value="$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_4.py" />
+        <option value="$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_5.py" />
+        <option value="$PROJECT_DIR$/Chap05-funcoes-frutiferas/geradora.py" />
+        <option value="$PROJECT_DIR$/Chap06-Iteracao/myIterator.py" />
       </list>
     </option>
   </component>
@@ -147,6 +205,31 @@
             <path>
               <item name="Aprenda_computacao_com_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Aprenda_computacao_com_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Chap06-Iteracao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aprenda_computacao_com_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aprenda_computacao_com_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Chap11-Arquivos_e_excecoes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aprenda_computacao_com_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aprenda_computacao_com_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Chap12-Classes_&amp;_Objetos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aprenda_computacao_com_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aprenda_computacao_com_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Chap13-Classes_&amp;_Funcoes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aprenda_computacao_com_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aprenda_computacao_com_Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Chap14-Classes_&amp;_metodos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aprenda_computacao_com_Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aprenda_computacao_com_Python" type="462c0819:PsiDirectoryNode" />
               <item name="Chap15-Composicao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -157,17 +240,7 @@
             <path>
               <item name="Aprenda_computacao_com_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Aprenda_computacao_com_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Chap17-Listas_encadeadas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Aprenda_computacao_com_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aprenda_computacao_com_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Chap18-Pilhas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Aprenda_computacao_com_Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aprenda_computacao_com_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Chap19-Filas" type="462c0819:PsiDirectoryNode" />
+              <item name="Chap20-Arvores" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -182,6 +255,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Chap11-Arquivos_e_excecoes" />
       <recent name="$PROJECT_DIR$/Chap03-funcoes" />
     </key>
   </component>
@@ -197,8 +271,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fila">
-    <configuration name="fila" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.myIterator">
+    <configuration name="exemplo_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Aprenda_computacao_com_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -206,17 +280,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap19-Filas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap11-Arquivos_e_excecoes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap19-Filas/fila.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="horario" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exemplo_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Aprenda_computacao_com_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,17 +298,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap13-Classes_&amp;_Funcoes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap11-Arquivos_e_excecoes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap13-Classes_&amp;_Funcoes/horario.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="jogo_de_cartas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exemplo_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Aprenda_computacao_com_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -242,17 +316,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap16-Heranca" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap11-Arquivos_e_excecoes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap16-Heranca/jogo_de_cartas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="node" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="geradora" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Aprenda_computacao_com_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -260,17 +334,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap17-Listas_encadeadas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap05-funcoes-frutiferas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap17-Listas_encadeadas/node.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap05-funcoes-frutiferas/geradora.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="myIterator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Aprenda_computacao_com_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,30 +352,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap18-Pilhas" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chap06-Iteracao" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap18-Pilhas/stack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chap06-Iteracao/myIterator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.horario" />
-      <item itemvalue="Python.jogo_de_cartas" />
-      <item itemvalue="Python.node" />
-      <item itemvalue="Python.stack" />
-      <item itemvalue="Python.fila" />
+      <item itemvalue="Python.exemplo_3" />
+      <item itemvalue="Python.exemplo_4" />
+      <item itemvalue="Python.exemplo_5" />
+      <item itemvalue="Python.geradora" />
+      <item itemvalue="Python.myIterator" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.fila" />
-        <item itemvalue="Python.stack" />
-        <item itemvalue="Python.horario" />
-        <item itemvalue="Python.jogo_de_cartas" />
-        <item itemvalue="Python.node" />
+        <item itemvalue="Python.myIterator" />
+        <item itemvalue="Python.geradora" />
+        <item itemvalue="Python.exemplo_5" />
+        <item itemvalue="Python.exemplo_4" />
+        <item itemvalue="Python.exemplo_3" />
       </list>
     </recent_temporary>
   </component>
@@ -327,12 +401,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="44" y="-11" width="1237" height="812" extended-state="6" />
+    <frame x="45" y="-4" width="1235" height="804" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4051724" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34195402" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -382,18 +457,16 @@
           <line>11</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Chap20-Arvores/tree.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Chap07-Strings/find_letra2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chap09_Mutabilidade_e_tuplas/contador.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -507,38 +580,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/velhoArquivo.txt" />
-    <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/le_arquivo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/filtraArquivo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chap10 -Dicionarios/histograma.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/existe_try_except.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/try_except1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -549,52 +594,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/estudantes_salarios.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chap05-funcoes-frutiferas/calcula_distancia.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="26" lean-forward="true" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap12-Classes_&amp;_Objetos/distancia.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap12-Classes_&amp;_Objetos/ponto.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap12-Classes_&amp;_Objetos/mesmo_ponto.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="25" lean-forward="true" selection-start-line="23" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap12-Classes_&amp;_Objetos/copiando.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap14-Classes_&amp;_metodos/time.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="64" lean-forward="true" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
         </state>
       </provider>
     </entry>
@@ -605,69 +608,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chap12-Classes_&amp;_Objetos/rectangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/copia_arquivo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap15-Composicao/carta.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="55" column="13" lean-forward="true" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap04-condicionais_e_recursividade/imprime_paridade.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap04-condicionais_e_recursividade/n_linhas.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap04-condicionais_e_recursividade/contagem_regressiva.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap04-condicionais_e_recursividade/compara_dois_numeros.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap04-condicionais_e_recursividade/verifica_se_eh_divisivel.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap04-condicionais_e_recursividade/return.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap04-condicionais_e_recursividade/op_modulo.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap04-condicionais_e_recursividade/executar_escolha.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chap17-Listas_encadeadas/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap16-Heranca/jogo_de_cartas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="173" column="12" selection-start-line="169" selection-start-column="2" selection-end-line="173" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chap13-Classes_&amp;_Funcoes/horario.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="57" column="41" lean-forward="true" selection-start-line="57" selection-start-column="41" selection-end-line="57" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -687,8 +631,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chap18-Pilhas/stack.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        <state relative-caret-position="540">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -701,24 +645,181 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chap19-Filas/fila.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-994">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap20-Arvores/tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="67" column="26" selection-start-line="67" selection-start-column="26" selection-end-line="67" selection-end-column="26" />
+          <folding>
+            <element signature="e#99#168#0" />
+            <element signature="e#389#515#0" />
+            <element signature="e#1155#1279#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap20-Arvores/animal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/estudantes_salarios.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/copia_arquivo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/try_except1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/filtraArquivo.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#38#1015#0" />
-            <element signature="e#92#137#0" />
-            <element signature="e#170#192#0" />
-            <element signature="e#228#312#0" />
-            <element signature="e#558#705#0" />
-            <element signature="e#745#1015#0" />
-            <element signature="e#69#109#0" />
-            <element signature="e#142#155#0" />
-            <element signature="e#614#731#0" />
-            <element signature="e#787#852#0" />
-            <element signature="e#1356#1530#0" />
-            <element signature="e#1585#1600#0" />
-            <element signature="e#1634#1657#0" />
-            <element signature="e#1701#1720#0" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/existe_try_except.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/le_arquivo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap12-Classes_&amp;_Objetos/copiando.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap12-Classes_&amp;_Objetos/distancia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap12-Classes_&amp;_Objetos/mesmo_ponto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap12-Classes_&amp;_Objetos/ponto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap12-Classes_&amp;_Objetos/rectangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="954">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap13-Classes_&amp;_Funcoes/horario.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="83" lean-forward="true" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap14-Classes_&amp;_metodos/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="64" lean-forward="true" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap15-Composicao/carta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="55" column="13" lean-forward="true" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap16-Heranca/jogo_de_cartas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2468">
+          <caret line="173" column="12" selection-start-line="169" selection-start-column="2" selection-end-line="173" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" lean-forward="true" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap11-Arquivos_e_excecoes/exemplo_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap05-funcoes-frutiferas/geradora.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chap06-Iteracao/myIterator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>

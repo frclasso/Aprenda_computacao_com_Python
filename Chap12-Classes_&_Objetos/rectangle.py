@@ -35,8 +35,8 @@ def findCenter(box):
     p.x = box.corner.x + box.width/2.0
     p.y = box.corner.y + box.height/2.0
 
-center = findCenter(box)
-#print(mostraPonto(center))  # Error AttributeError: 'NoneType' object has no attribute 'x'
+    center = findCenter(box)
+    print(mostraPonto(center))  # Error AttributeError: 'NoneType' object has no attribute 'x'
 
 box.width = box.width + 50
 box.height = box.height + 100
@@ -51,7 +51,7 @@ def growRect(box, dwidth, dheight):
 
 
 bob = Rectangle()
-# bob.width = 100.0
+bob.width = 100.0
 # bob.height = 200.0
 # bob.corner.x = 0.0
 # bob.corner.y = 0.0
